@@ -75,6 +75,7 @@ class QueLevel2: NSObject {
 
 extension QueLevel2 {
     
+    /// 题目类型
     enum QueLevel2Type: Int {
         case FillBlank = 0
         case SelectFillBlank
